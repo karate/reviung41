@@ -8,4 +8,4 @@ Differences from the Original Reviun41:
 
 ![Sketch top view](/pics/top.png?raw=true "Sketch - Top view")
 ![Sketch bottom view](/pics/bottom.png?raw=true "Sketch - Bottom view")
-![Under construction](/pics/under-construction.jpg.png?raw=true "Sanding and painting")
+![Under construction](/pics/under-construction.jpg?raw=true "Sanding and painting")
